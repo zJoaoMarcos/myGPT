@@ -1,0 +1,17 @@
+{
+  "name": "gepeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.4.8",
+    "tsx": "^3.12.7",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@huggingface/inference": "1",
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.124",
+    "redis": "^4.6.7"
+  }
+}
